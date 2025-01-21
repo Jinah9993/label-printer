@@ -79,9 +79,11 @@ If the CSV file contains empty cells, they will be displayed as `NaN` in the gen
 
 - The preview panel displays the first page of the generated labels.
 - Each **6x4-inch label** is split into two **4x3-inch sections**, showing product information.
-- 
+  
 ![5](https://github.com/user-attachments/assets/2c3316dd-cc06-4c3f-9ac0-9d9e8eea6ada)
+
 ![7](https://github.com/user-attachments/assets/0cb7701d-703c-4a1c-8ca7-d7ed9c61a138)
+
 ![8](https://github.com/user-attachments/assets/53928c6c-7bfe-45dd-a3ff-cc9d85aa9842)
 
 
