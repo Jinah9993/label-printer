@@ -47,10 +47,15 @@ This application allows users to generate PDF labels for products based on data 
 
 2. Use the following buttons in the GUI:
    - **Upload CSV and Preview**: Select a CSV file to upload and preview the generated labels.
+     
   ![3](https://github.com/user-attachments/assets/2d48665a-060c-435d-859d-4be0f571b5f6)
+  
    - **Save Labels**: Save the generated labels as a PDF file.
+     
   ![4](https://github.com/user-attachments/assets/82450b0f-1ac1-44f5-9992-a293258ab751)
+  
    - **Download Sample CSV**: Download a sample CSV file with test cases to the `Downloads` folder.
+     
   ![2](https://github.com/user-attachments/assets/3beabef3-7382-4971-9322-fc1f0de6b288)
 
 ## CSV Format
@@ -74,8 +79,11 @@ If the CSV file contains empty cells, they will be displayed as `NaN` in the gen
 
 - The preview panel displays the first page of the generated labels.
 - Each **6x4-inch label** is split into two **4x3-inch sections**, showing product information.
+- 
 ![5](https://github.com/user-attachments/assets/2c3316dd-cc06-4c3f-9ac0-9d9e8eea6ada)
-![6](https://github.com/user-attachments/assets/018f7173-d691-4106-aa9f-a7d81dcd5b5a)
+![7](https://github.com/user-attachments/assets/0cb7701d-703c-4a1c-8ca7-d7ed9c61a138)
+![8](https://github.com/user-attachments/assets/53928c6c-7bfe-45dd-a3ff-cc9d85aa9842)
+
 
 ## License
 
