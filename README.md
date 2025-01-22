@@ -26,8 +26,8 @@ This application allows users to generate PDF labels for products based on data 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/sku-label-generator.git
-   cd sku-label-generator
+   git clone https://github.com/Jinah9993/label-printer.git
+   cd label-printer
    ```
 
 2. Install the required Python libraries:
