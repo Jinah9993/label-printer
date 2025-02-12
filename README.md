@@ -87,7 +87,5 @@ If the CSV file contains empty cells, they will be displayed as `NaN` in the gen
 ![8](https://github.com/user-attachments/assets/53928c6c-7bfe-45dd-a3ff-cc9d85aa9842)
 
 
-## License
 
-This project is licensed under the MIT License.
 
